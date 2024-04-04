@@ -1,0 +1,35 @@
+.greet_con{
+    margin: 10%auto;
+    border-radius: 30px;
+ background: #212121;
+ box-shadow: 15px 15px 30px rgb(25, 25, 25),
+             -15px -15px 30px rgb(60, 60, 60);
+ 
+ width: 45%;
+ height: 10vh;
+ padding-top: 2%;
+ 
+ 
+
+
+  
+
+}
+
+.greet{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+
+}
+
+.userN{
+    text-align: center;
+    margin: .5em;
+    color: #288fc3;
+    font-size: 1.5em;
+    background-color: transparent;
+    align-self: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+} 
+
